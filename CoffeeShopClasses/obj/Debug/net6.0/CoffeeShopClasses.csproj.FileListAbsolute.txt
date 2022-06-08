@@ -1,0 +1,12 @@
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/bin/Debug/net6.0/CoffeeShopClasses.deps.json
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/bin/Debug/net6.0/CoffeeShopClasses.dll
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/bin/Debug/net6.0/CoffeeShopClasses.pdb
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/obj/Debug/net6.0/CoffeeShopClasses.csproj.AssemblyReference.cache
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/obj/Debug/net6.0/CoffeeShopClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/obj/Debug/net6.0/CoffeeShopClasses.AssemblyInfoInputs.cache
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/obj/Debug/net6.0/CoffeeShopClasses.AssemblyInfo.cs
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/obj/Debug/net6.0/CoffeeShopClasses.csproj.CoreCompileInputs.cache
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/obj/Debug/net6.0/CoffeeShopClasses.dll
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/obj/Debug/net6.0/refint/CoffeeShopClasses.dll
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/obj/Debug/net6.0/CoffeeShopClasses.pdb
+/Users/velgeorgieva/Projects/CoffeeShopClasses/CoffeeShopClasses/obj/Debug/net6.0/ref/CoffeeShopClasses.dll
